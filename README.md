@@ -2,12 +2,12 @@
 
 ### Fundamentals
 
-- Data structures and algorithms
-- Structured and unstructured data
+- [Data Structures and Algorithms](./Fundamentals/Data Structures and Algorithms.md)
+- Structured and Unstructured Data
 
 ### Programming
 
-- Programming languages
+- Programming Languages
 - Libraries
 - Notebooks
 
