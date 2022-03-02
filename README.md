@@ -2,7 +2,7 @@
 
 ### Fundamentals
 
-- [Data Structures and Algorithms](./Fundamentals/Data Structures and Algorithms.md)
+- [Data Structures and Algorithms](./Fundamentals/Data%20Structures%20and%20Algorithms.md)
 - Structured and Unstructured Data
 
 ### Programming
