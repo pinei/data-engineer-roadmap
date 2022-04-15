@@ -33,6 +33,8 @@
 - Tabular
 - Spreadsheet
 - Columnar
+  - Vectorized query execution
+
 - Data Interchange
 - Statistical
 

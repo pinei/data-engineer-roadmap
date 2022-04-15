@@ -3,7 +3,6 @@
 Data are organized by column, rather than by row, which enables column-wise compression to save storage space and enables data skipping to speed up analytics queries.
 
 - Apache Parquet
-- Avro
 - Apache ORC
 
 # Apache Parquet
