@@ -1,12 +1,22 @@
 # Big Data
 
-Big Data refers to the datasets too large and complex for **RDBMS** or other traditional technologies to capture, store, process, search and analyze. 
+Big Data refers to the datasets too large and complex for **RDBMS** or other traditional technologies to capture, store, process, search and analyze.
 
-The major problems falls under three Vs. 
+Big Data is a combination of unstructured, semi-structured or structured data collected by organizations.
 
-| **Volume**                                                   | **Velocity**                                                 | **Variety**                                                  | **Veracity**                           |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------- |
-| - The data is getting generated in multi terabyte quantities.<br />- Social media generates 500 TB of data every day | - There is a need of framework which is capable of high-speed data computations.<br />- Many use cases like credit card fraud detection have only a few seconds to process the data in real-time and detect fraud. | - Technology should have the capability of performing analytics on a variety of data.<br />- Data from various sources have varied formats like text, XML, images, audio, video, etc. | - The need to verify the data quality. |
+The major problems falls under the **five** main and innate characteristics of Big Data. 
+
+| Volume                                                       |
+| ------------------------------------------------------------ |
+| - The data is getting generated in multi terabyte quantities.<br />- Social media generates 500 TB of data every day.<br />- What is considered to be big data will change depending on the available computing power that's on the market. |
+| **Velocity**                                                 |
+| - Refers to how quickly data is generated, moved, and processed.<br />- Many use cases like credit card fraud detection have only a few seconds to process the data in real-time and detect fraud.<br />- Data needs to be digested and analyzed quickly, sometimes in near real time. |
+| **Variety**                                                  |
+| - Technology should have the capability of performing analytics on a variety of data.<br />- Data from various sources have varied formats like text, XML, images, audio, video, etc.<br />- Collected data can be unstructured, semi-structured or structured in nature. |
+| **Veracity**                                                 |
+| - Refers to the quality and accuracy of data<br />- A large amount of data can cause more confusion than insights if it's incomplete. |
+| **Value**                                                    |
+| - Refers to what organizations can do with that collected data to derive value |
 
 ## Technologies
 
