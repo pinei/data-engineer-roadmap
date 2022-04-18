@@ -28,13 +28,16 @@
 - Graph
 - Column family
 
+### Big Data
+
+- [About Big Data](./Big%20Data/Big%20Data.md)
+
 ### Data Formats
 
 - Tabular
-- Spreadsheet
-- Columnar
+- [Row-Based](./Data%20Formats/Row-Based%20Formats.md)
+- [Columnar](./Data%20Formats/Columnar%20Formats.md)
   - Vectorized query execution
-
 - Data Interchange
 - Statistical
 
