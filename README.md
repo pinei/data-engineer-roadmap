@@ -41,6 +41,12 @@
 - Data Interchange
 - Statistical
 
+### Data Modeling
+
+- N3F
+- Dimensional Model (Star Schema)
+- Data Vault
+
 ### Data Warehouse
 
 - Arquitecture
