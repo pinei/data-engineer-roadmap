@@ -84,3 +84,5 @@ Methods and techniques to turn unstructured content into structured data.
 
 - [Big Data Tutorials](https://data-flair.training/blogs/big-data-tutorials-home/)
 - [Big Data Technologies](https://techvidvan.com/tutorials/big-data-technologies/)
+- [5 V's of big data](https://www.techtarget.com/searchdatamanagement/definition/5-Vs-of-big-data)
+
