@@ -7,6 +7,8 @@ Each data structure contains:
 - Relationships between the data
 - Functions (operations) that can be applied to the data
 
+![Data Structures](.img/data_strucutures_non_primitive.png)
+
 ### Characteristics of data structures
 
 - Linear or non-linear
@@ -84,4 +86,3 @@ Features of ADT:
 
 #### Maps
 
-![Data Structures](.img/data_strucutures_non_primitive.png)
