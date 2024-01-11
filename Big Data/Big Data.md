@@ -9,13 +9,13 @@ The major problems falls under the **five** main and innate characteristics of B
 | 5 Vs                                                         |
 | ------------------------------------------------------------ |
 | **Volume**                                                   |
-| - The data is getting generated in multi terabyte quantities.<br />- Social media generates 500 TB of data every day.<br />- What is considered to be big data will change depending on the available computing power that's on the market. |
+| - The data is getting generated in multi terabyte quantities.<br />- We have to think about how are we going to store and access all this data.<br />- What is considered to be big data will change depending on the available computing power that's on the market. |
 | **Velocity**                                                 |
-| - Refers to how quickly data is generated, moved, and processed.<br />- Many use cases like credit card fraud detection have only a few seconds to process the data in real-time and detect fraud.<br />- Data needs to be digested and analyzed quickly, sometimes in near real time. |
+| - Refers to how quickly data is generated, moved around, and processed.<br />- Many use cases like credit card fraud detection have only a few seconds to process the data in real-time and detect fraud.<br />- Data needs to be digested, queried and analyzed quickly, sometimes in near real time. |
 | **Variety**                                                  |
-| - Technology should have the capability of performing analytics on a variety of data.<br />- Data from various sources have varied formats like text, XML, images, audio, video, etc.<br />- Collected data can be unstructured, semi-structured or structured in nature. |
+| - Technology should have the capability of performing analytics on a variety of data.<br />- Data from different sources have varied types and formats like text, XML, images, audio, video, etc.<br />- Analysts usually work with structured and semi-structured data that can generally be coerced into some kind of tabular format (like a spreadsheet) or charts, but many businesses are also collecting and processing unstructured data like video files and social media posts.  |
 | **Veracity**                                                 |
-| - Refers to the quality and accuracy of data<br />- A large amount of data can cause more confusion than insights if it's incomplete. |
+| - Refers to the quality and accuracy of data<br />- A large amount of data can cause more confusion than insights if it's incomplete or inconsistent. | 
 | **Value**                                                    |
 | - Refers to what organizations can do with that collected data to derive value |
 
