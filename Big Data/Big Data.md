@@ -17,7 +17,7 @@ The major problems falls under the **five** main and innate characteristics of B
 | **Veracity**                                                 |
 | - Refers to the quality and accuracy of data<br />- A large amount of data can cause more confusion than insights if it's incomplete or inconsistent. | 
 | **Value**                                                    |
-| - Refers to what organizations can do with that collected data to derive value |
+| - Refers to what organizations can do with that collected data to derive value.<br />- Extracting value from big data can be really complicated.<br />- It needs to be transformed into shareable, actionable insights and made visible to the larger organization. |
 
 ## Technologies
 
